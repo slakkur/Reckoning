@@ -1,0 +1,63 @@
+{
+	"version": 115,
+	"GeneralData":
+	{
+		"disableBaseDamage": 1,
+		"disableContainerDamage": 0,
+		"disableRespawnDialog": 0
+	},
+    "PlayerData":
+	{
+		"disablePersonalLight": 0,
+		"StaminaData":
+		{
+			"sprintStaminaModifierErc": 1.0,
+			"sprintStaminaModifierCro": 1.0,
+			"staminaWeightLimitThreshold": 6000.0,
+			"staminaMax": 100.0,
+			"staminaKgToStaminaPercentPenalty": 1.75,
+			"staminaMinCap": 5.0
+		}
+	},
+	"WorldsData":
+	{
+		"lightingConfig": 1,
+		"objectSpawnersArr": ["./custom/spawnerData.json"]
+	},
+	"BaseBuildingData":
+	{
+		"HologramData":
+		{
+			"disableIsCollidingBBoxCheck": 1,
+			"disableIsCollidingPlayerCheck": 1,
+			"disableIsClippingRoofCheck": 1,
+			"disableIsBaseViableCheck": 1,
+			"disableIsCollidingGPlotCheck": 1,
+			"disableIsCollidingAngleCheck": 1,
+			"disableIsPlacementPermittedCheck": 1,
+			"disableHeightPlacementCheck": 1,
+			"disableIsUnderwaterCheck": 1,
+			"disableIsInTerrainCheck": 1
+		},
+		"ConstructionData":
+		{
+			"disablePerformRoofCheck": 1,
+			"disableIsCollidingCheck": 1,
+			"disableDistanceCheck": 1
+		}
+	},
+	"UIData":
+	{
+		"HitIndicationData":
+		{
+			"hitDirectionOverrideEnabled": 0,
+			"hitDirectionBehaviour": 1,
+			"hitDirectionStyle": 0,
+			"hitDirectionIndicatorColorStr": "0xffbb0a1e",
+			"hitDirectionMaxDuration": 2.0,
+			"hitDirectionBreakPointRelative": 0.2,
+			"hitDirectionScatter": 10.0,
+			"hitIndicationPostProcessEnabled": 1
+		}
+	}
+}
