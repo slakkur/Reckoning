@@ -17,20 +17,20 @@
 		<pos x="7199.5" z="9114.25" a="-1" />
     </event>
 	<event name="VehicleHatchbackTrader">
-		<pos x="7191.91" z="9088.04" a="-1" />
+		<pos x="7225.24" z="8966.26" a="-1" />
     </event>
 	<event name="VehicleSedan02extra">
-		<pos x="7193.89" z="9094.36" a="-1" />
+		<pos x="7151.35" z="9019.25" a="-1" />
     </event>
 	<event name="VehicleCivilianSedanextra">
 		<pos x="7190.63" z="9079.96" a="-1" />
     </event>
 	<event name="NPCEvaM4">
-		<pos x="4958.86" z="2429.54" a="-1" />
+		<pos x="7172.74" z="9042.09" a="-1" />
 	</event>
 	<event name="ItemGoodyBag01">
-		<pos x="7238.97" z="9114.11" a="-1" />
-		<pos x="7238.95" z="9114.21" a="-1" />
+		<pos x="7207.25" z="9005.64" a="-1" />
+		<pos x="7207.35" z="9005.64" a="-1" />
 		<!--pos x="4895.86" z="2463.09" a="-1" />
 		<pos x="4895.85" z="2463.09" a="-1" />
 		<pos x="4895.84" z="2463.09" a="-1" />

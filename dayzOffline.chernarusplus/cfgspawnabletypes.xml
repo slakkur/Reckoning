@@ -95,7 +95,7 @@
             <item name="MetalWire" />
         </cargo>
 		<cargo chance="1">
-            <item name="BarbedWire" />
+            <item name="VitaminBottle" />
         </cargo>
 		<!--cargo chance="1">
             <item name="AmmoBox_308Win_20Rnd" />
