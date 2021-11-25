@@ -436,7 +436,7 @@
         <usage name="Medic"/>
         <usage name="Firefighter"/>
     </type>
-    <!--type name="AliceBag_Black">
+    <type name="AliceBag_Black">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -447,18 +447,20 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
-    </type-->
-	<type name="AliceBag_Black">
-        <nominal>10</nominal>
-        <lifetime>28800</lifetime>
-        <restock>1800</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <usage name="DontUse"/>		
     </type>
+	<!--
+        <type name="AliceBag_Black">
+            <nominal>10</nominal>
+            <lifetime>28800</lifetime>
+            <restock>1800</restock>
+            <min>10</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+            <usage name="DontUse"/>		
+        </type>
+    -->
     <type name="AliceBag_Camo">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -9806,6 +9808,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+		<usage name="ContaminatedArea"/>
     </type>
     <type name="M4A1_Green">
         <nominal>5</nominal>
@@ -9817,6 +9820,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+		<usage name="ContaminatedArea"/>
     </type>
     <type name="M4_CQBBttstck">
         <nominal>5</nominal>

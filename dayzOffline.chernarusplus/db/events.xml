@@ -728,7 +728,7 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2100</lifetime>
@@ -1178,43 +1178,9 @@
         </children>
 	</event>
 	<event name="StaticMaria">
-        <nominal>1</nominal>
+        <nominal>10</nominal>
         <min>1</min>
-        <max>1</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorF_Maria"/>
-        </children>
-	</event>
-	<event name="StaticIrena">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorF_Irena"/>
-        </children>
-	</event>
-	<event name="StaticGabi">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
+        <max>10</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
@@ -1225,7 +1191,92 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorF_Gabi"/>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="SurvivorF_Maria"/>
+        </children>
+	</event>
+	<event name="StaticIrena">
+        <nominal>10</nominal>
+        <min>1</min>
+        <max>10</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="SurvivorF_Irena"/>
+        </children>
+	</event>
+	<event name="StaticGabi">
+        <nominal>10</nominal>
+        <min>1</min>
+        <max>10</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="SurvivorF_Gabi"/>
+        </children>
+	</event>
+	<event name="StaticNaomi">
+        <nominal>10</nominal>
+        <min>1</min>
+        <max>10</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="SurvivorF_Naomi"/>
+        </children>
+	</event>
+	<event name="StaticEva">
+        <nominal>10</nominal>
+        <min>1</min>
+        <max>10</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="SurvivorF_Eva"/>
+        </children>
+	</event>
+	<event name="StaticHassan">
+        <nominal>10</nominal>
+        <min>1</min>
+        <max>10</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="SurvivorM_Hassan"/>
         </children>
 	</event>
 </events>

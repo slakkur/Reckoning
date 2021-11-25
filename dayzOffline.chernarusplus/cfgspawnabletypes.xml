@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
-	<damage min="0.3" max="0.7" />
+	<damage min="1.0" max="1.0" />
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
@@ -4035,22 +4035,22 @@
 	</type>
 	<type name="SurvivorF_Naomi"><!-- 4 -->
 		<attachments>
-			<item name="MilitaryBeret_Red" />
+			<item name="CowboyHat_darkBrown" />
 		</attachments>
 		<attachments>
 			<item name="NVGHeadstrap" />
 		</attachments>	
 		<attachments>
-			<item name="ZmbM_Jacket_black" />
+			<item name="HuntingJacket_Brown" />
 		</attachments>
 		<attachments>
-			<item name="USMCPants_Woodland" />
+			<item name="HunterPants_Brown" />
 		</attachments>	
 		<attachments>
-			<item name="MilitaryBoots_Black" />
+			<item name="HunterBoots_Black" />
 		</attachments>	
 		<attachments>
-			<item name="HighCapacityVest_Black" />
+			<item name="HuntingVest" />
 		</attachments>
 		<attachments>
 			<item name="AliceBag_Black" />
@@ -4061,21 +4061,6 @@
 		<attachments>
 			<item name="MilitaryBelt" />
 		</attachments>	
-		<attachments>
-			<item name="FNX45"/>
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Mag_FNX45_15Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="PistolSuppressor" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="TLRLight" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="FNP45_MRDSOptic" chance="1.00" />
-		</attachments>
 		<attachments>
 			<item name="Sword" />
 		</attachments>
@@ -4092,10 +4077,10 @@
 			<item name="RGD5Grenade" />
 		</attachments>	
 					<attachments>
-						<item name="BloodTestKit" />
+						<item name="HunterPants_Spring" />
 					</attachments>
 					<attachments>
-						<item name="BandageDressing" />
+						<item name="HuntingJacket_Spring" />
 					</attachments>
 					<attachments>
 						<item name="Rice" />
