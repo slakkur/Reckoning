@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
-	<damage min="1.0" max="1.0" />
+	<damage min="0.1" max="0.2" />
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
@@ -68,19 +68,10 @@
             <item name="NailBox" />
         </cargo>
 		<cargo chance="1">
-            <item name="NailBox" />
-        </cargo>
-		<cargo chance="1">
-            <item name="Pickaxe" />
+            <item name="MetalWire" />
         </cargo>
 		<cargo chance="1">
             <item name="Rope" />
-        </cargo>
-		<cargo chance="1">
-            <item name="Hatchet" />
-        </cargo>
-		<cargo chance="1">
-            <item name="BandageDressing" />
         </cargo>
 		<cargo chance="1">
             <item name="TacticalBaconCan" />
@@ -3381,7 +3372,7 @@
 			<item name="Truck_01_Door_2_1_Blue" chance="0.50" />
 		</attachments>
 	</type>
-	<!--type name="Truck_01_Covered_Orange">
+	<type name="Truck_01_Covered_Orange">
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
@@ -3457,8 +3448,95 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-	</type-->
-	<type name="Truck_01_Covered_Orange">
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NVGHeadstrap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NVGHeadstrap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Deagle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments  chance="1.00">
+			<item name="HuntingKnife" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="HuntingVest" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="HuntingBag" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="HikingBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments  chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="HunterPants_Autumn" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="HuntingJacket_Autumn" chance="1.00" />
+		</attachments>
+		<attachments  chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments  chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+	</type>
+	<!--type name="Truck_01_Covered_Orange">
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
@@ -3819,7 +3897,7 @@
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
 		</attachments>
-	</type>
+	</type-->
 	<type name="SurvivorF_Eva"><!-- 1 -->
 		<attachments>
 			<item name="MilitaryBeret_ChDKZ" />
@@ -4087,8 +4165,7 @@
 					</attachments>
 					<attachments>
 						<item name="SodaCan_Cola" />
-					</attachments>				
-					
+					</attachments>								
 	</type>
 	<type name="SurvivorF_Gabi"><!-- 5 -->
 		<attachments>
@@ -4162,8 +4239,7 @@
 					</attachments>
 					<attachments>
 						<item name="SodaCan_Cola" />
-					</attachments>				
-					
+					</attachments>								
 	</type>
 	<type name="SurvivorF_Linda"><!-- 6 -->
 		<attachments>
@@ -4228,8 +4304,7 @@
 					</attachments>
 					<attachments>
 						<item name="SodaCan_Cola" />
-					</attachments>				
-					
+					</attachments>								
 	</type> 	
 	<type name="SurvivorF_Keiko"><!-- 7 -->
 		<attachments>
