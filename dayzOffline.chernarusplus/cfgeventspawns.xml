@@ -40,6 +40,9 @@
 	<event name="StaticEva">
 		<pos x="7200.74" z="9068.22" a="-1" />
 	</event>
+	<event name="StaticSlakkur">
+		<pos x="1234.30" z="6588.8" a="-1" />
+	</event>
 	<event name="StaticHassan">
 		<pos x="7202.28" z="9076.64" a="-1" />
 	</event>
