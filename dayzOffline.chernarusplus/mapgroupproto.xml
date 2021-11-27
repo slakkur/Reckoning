@@ -16,28 +16,6 @@
 -->
 		</defaults>
 
-		<group name="Chest1" lootmax="1">
-			<container name="loot" lootmax="1">
-			</container>
-			<dispatch>
-				<proxy type="DryBag_Green" pos="0.0 0.0 0.0" rpy="-0.0 0.0 0.0" />
-			</dispatch>
-		</group>
-		<group name="GoodieBag" lootmax="1">
-			<container name="loot" lootmax="1">
-			</container>
-			<dispatch>
-				<proxy type="AliceBag_Black" pos="0.0 1.5 0.0" rpy="-0.0 0.0 0.0" />
-			</dispatch>
-		</group>
-		<group name="Swords1" lootmax="3">
-			<container name="loot" lootmax="3">
-			</container>
-			<dispatch>
-				<proxy type="Sword" pos="-1.0 2.0 1.5" rpy="-225.0 90.0 0.0" />
-				<proxy type="Sword" pos="-1.0 2.0 1.0" rpy="-135.0 90.0 0.0" />
-			</dispatch>
-		</group>
 		<group name="Land_Shed_M1" lootmax="2">
 				<usage name="Industrial" />
 				<usage name="Farm" />
@@ -12089,7 +12067,7 @@
 						<point pos="-0.866100 -0.489319 0.377680" range="0.100000" height="0.250000" />
 				</container>
 		</group>
-		<!-- ============================= -->
+		<!-- ----------------------------------------------------------------------------------------- -->
 		<!-- ENOCH SPECIFIC-->
 		<group name="Land_Mil_Guardhouse3" lootmax="2">
 				<usage name="Police" />
@@ -15611,7 +15589,7 @@
 						</dispatch>
 		</group>
 		
-		<!-- ============================= -->
+		<!-- ----------------------------------------------------------------------------------------- -->
 		<!-- SEASONAL EVENT-->
 		<group name="Bonfire" lootmax="5">
 				<usage name="SeasonalEvent" />

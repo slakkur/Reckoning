@@ -9,20 +9,13 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
-		<category name="None"/>
-		<category name="NPC"/>
     </categories>
     <tags>
-		<tag name="Nothing"/>
         <tag name="floor"/>
         <tag name="shelves"/>
         <tag name="ground"/>
     </tags>
     <usageflags>
-		<usage name="Parts"/>
-		<usage name="DontUse"/>
-		<usage name="graves "/>
-		<usage name="Nada"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <usage name="Medic"/>

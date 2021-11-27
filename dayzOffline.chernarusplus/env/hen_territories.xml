@@ -158,7 +158,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4965" z="2370" r="82.5"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4222.5" z="2317.5" r="75"/>
     </territory>
-    <!--territory color="3556750600">
+    <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6637.5" z="2565" r="150"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6922.5" z="2677.5" r="150"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6810" z="3090" r="112.5"/>
@@ -169,7 +169,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7132.5" z="2602.5" r="75"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6735" z="2842.5" r="75"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7095" z="3150" r="75"/>
-    </territory-->
+    </territory>
     <territory color="3556750600">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="12945" z="8062.5" r="127.5"/>
     </territory>
