@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
+	<event name="StaticLogs">
+		<pos x="7235.44" z="9130.655" a="270.00" />
+		<pos x="7243.55" z="9122.02" a="270.00" />
+		<pos x="7235.44" z="9122.270" a="270.00" />
+		<pos x="7193.54" z="8975.38" a="270.00" />
+	</event>
+	<event name="StaticPlanks">
+		<pos x="7202.57" z="8972.41" a="270.000000" />
+		<pos x="7209.97" z="8970.60" a="270.000000" />
+		<pos x="7215.04" z="8968.63" a="270.000000" />
+		<pos x="7222.40" z="8963.91" a="270.000000" />
+		<pos x="6894.000000" z="11372.000000" a="180.000000" />
+	</event>
+	<event name="VehicleTruckTrader">
+		<pos x="7199.41" z="9089.82" a="-1" />
+    </event>
+	<event name="VehicleHatchbackTrader">
+		<pos x="7225.24" z="8956.26" a="-1" />
+    </event>
+	<event name="VehicleSedan02extra">
+		<pos x="7151.35" z="9019.25" a="-1" />
+    </event>
+	<event name="VehicleCivilianSedanextra">
+		<pos x="7206.92" z="9086.19" a="-1" />
+    </event>
+	<!--event name="StaticGabi">
+		<pos x="7242.9" z="9055.43" a="-1" />
+	</event>
+	<event name="StaticIrena">
+		<pos x="7247.66" z="9055.19" a="-1" />
+	</event>
+	<event name="StaticMaria">
+		<pos x="7236.62" z="9055.11" a="-1" />
+	</event>
+	<event name="StaticNomi">
+		<pos x="7242.9" z="9055.43" a="-1" />
+	</event-->
+	<event name="StaticEva">
+		<pos x="7200.74" z="9068.22" a="-1" />
+	</event>
+	<event name="StaticHassan">
+		<pos x="7202.28" z="9076.64" a="-1" />
+	</event>
+	<event name="ItemGoodyBag01">
+		<pos x="7246.86" z="9131.02" a="-1" />
+		<pos x="7246.76" z="9131.12" a="-1" />
+		<!--pos x="4895.86" z="2463.09" a="-1" />
+		<pos x="4895.85" z="2463.09" a="-1" />
+		<pos x="4895.84" z="2463.09" a="-1" />
+		<pos x="4895.83" z="2463.09" a="-1" />
+		<pos x="4895.82" z="2463.09" a="-1" />
+		<pos x="4895.81" z="2463.09" a="-1" />
+		<pos x="4895.86" z="2463.10" a="-1" />
+		<pos x="4895.86" z="2463.11" a="-1" />
+		<pos x="4895.86" z="2463.12" a="-1" />
+		<pos x="4895.86" z="2463.13" a="-1" /-->
+	</event>
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />
@@ -273,7 +330,7 @@
 		<pos x="3427.892578" z="3295.283448" a="-1" />
 		<pos x="4848.869629" z="4719.773438" a="-1" />
 		<pos x="655.947754" z="1965.813354" a="-1" />
-    </event>>
+    </event>
     <event name="StaticSantaCrash">
 		<zone smin="1" smax="1" dmin="1" dmax="1" r="45" />
 		<pos x="558.859619" z="12918.953125" a="-1" />

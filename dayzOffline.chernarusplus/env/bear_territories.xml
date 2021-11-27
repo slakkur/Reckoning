@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
+	<territory color="3556750600">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6565.61" z="2463.09" r="97.5"/>
+    </territory>
     <territory color="4294923520">
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="547.5" z="10001.3" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="397.5" z="10402.5" r="100"/>
