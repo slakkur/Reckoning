@@ -77,6 +77,310 @@
                 0.0,
                 0.0
             ]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13276.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13296.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13316.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13336.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13356.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13376.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13396.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13416.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13436.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13456.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13476.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13496.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13516.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13536.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13556.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13576.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13596.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13616.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13636.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13656.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13676.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13696.0, -3.0, 9970.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13716.0, -4.0, 9970.0],
+            "ypr": [0.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13713.3, -4.0, 9958.0],
+            "ypr": [180.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13713.3, -4.0, 9990.3],
+            "ypr": [180.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13716.0, -4.0, 10002.6],
+            "ypr": [0.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13733.4, -4.0, 10002.6],
+            "ypr": [0.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13730.7, -4.0, 9990.3],
+            "ypr": [180.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13730.7, -4.0, 9958.0],
+            "ypr": [180.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13733.3, -4.0, 9970.0],
+            "ypr": [0.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13716.0, -4.0, 9938.0],
+            "ypr": [0.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13733.4, -4.0, 9938.0],
+            "ypr": [0.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13713.3, -4.0, 9925.7],
+            "ypr": [180.0, 0.0, 90.0]
+        },
+		{"name": "Dam_Concrete_20_Floodgate",
+            "pos": [13730.7, -4.0, 9925.7],
+            "ypr": [180.0, 0.0, 90.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13698.8, 0.0, 9935.5],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13698.8, 0.0, 9921.5],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Bergfrit",
+            "pos": [13700.6, 9.0, 9963.0],
+            "ypr": [180.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13698.8, 0.0, 9949.4],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Bergfrit",
+            "pos": [13700.6, 9.0, 9987.3],
+            "ypr": [180.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13698.8, 0.0, 10001.2],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13698.8, 0.0, 10015.1],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13713.0, 0.0, 10019.8],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13726.9, 0.0, 10019.8],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13740.8, 0.0, 10019.8],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13794.3, 0.0, 9939.8],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13794.3, 0.0, 9925.9],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13794.3, 0.0, 9912.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13754.8, 0.0, 10023.7],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13768.7, 0.0, 10023.7],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13782.7, 0.0, 10023.7],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13786.0, 0.0, 10010.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13786.0, 0.0, 9996.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13786.0, 0.0, 9982.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13786.0, 0.0, 9968.0],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13792.0, 0.0, 9953.8],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13780.6, 0.0, 9908.3],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13767.0, 0.0, 9908.3],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13753.3, 0.0, 9908.3],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13739.6, 0.0, 9908.3],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13725.8, 0.0, 9908.3],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Donjon",
+            "pos": [13712.0, 0.0, 9908.3],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Castle_Bastion2",
+            "pos": [13779.5, 2.0, 9969.78],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Tisy_RadarPlatform_Top",
+            "pos": [13776.0, -2.0, 9935.0],
+            "ypr": [180.0, 0.0, 0.0]
+        },
+		{"name": "Land_Tisy_RadarPlatform_Top",
+            "pos": [13759.5, -1.3, 9982.1],
+            "ypr": [90.0, 0.0, 0.0]
+        },
+		{"name": "Land_Tisy_RadarPlatform_Top",
+            "pos": [13759.5, -1.3, 10005.0],
+            "ypr": [90.0, 0.0, 0.0]
+        },
+		{"name": "Land_FuelStation_Feed",
+            "pos": [13770.75, 7.0, 9978.99],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Misc_Well_Pump_Blue",
+            "pos": [13771.0, 6.4, 9981.56],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Mil_AircraftShelter",
+            "pos": [13763.0, 6.0, 9957.0],
+            "ypr": [90.0, 0.0, 0.0]
+        },
+		{"name": "Land_Mil_Guardhouse2",
+            "pos": [13265.18, 7.319, 9978.76],
+            "ypr": [270.0, 0.0, 0.0]
+        },
+		{"name": "Land_Wall_Gate_FenR_Big_L",
+            "pos": [13265.124023, 6.848679, 9970.233398],
+            "ypr": [90.0, 0.0, 0.0]
+        },
+		{"name": "Land_Wall_Gate_FenR_Big_L",
+            "pos": [13266.250977, 6.848679, 9969.094727],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_CementWorks_Hall1",
+            "pos": [13714.1, 11.9, 9938.5],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_Farm_WaterTower_Small",
+            "pos": [13709.3, 11.7, 10010.0],
+            "ypr": [90.0, 0.0, 0.0]
+        },
+		{"name": "Land_City_Store_WithStairs",
+            "pos": [13749.6, 3.55, 9925.2],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Land_City_Store_WithStairs",
+            "pos": [13749.6, 3.55, 9940.2],
+            "ypr": [0.0, 0.0, 0.0]
+        },
+		{"name": "Bonfire",
+            "pos": [13738.0, 8.9, 9973.0],
+            "ypr": [90.0, 0.0, 0.0]
         }
     ]
 }
