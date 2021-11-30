@@ -1127,9 +1127,9 @@
 		</children>
 	</event>
 	<event name="StaticPlanks">
-		<nominal>30</nominal>
-		<min>30</min>
-		<max>30</max>
+		<nominal>31</nominal>
+		<min>31</min>
+		<max>31</max>
 		<lifetime>300</lifetime>
 		<restock>0</restock>
 		<saferadius>0</saferadius>
@@ -1144,9 +1144,9 @@
 		</children>
 	</event>
 	<event name="StaticLogs">
-        <nominal>150</nominal>
-        <min>150</min>
-        <max>150</max>
+        <nominal>180</nominal>
+        <min>180</min>
+        <max>180</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
