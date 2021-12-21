@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
-	<message>
-		<deadline>360</deadline>
-		<shutdown>1</shutdown>
-        <text>! The Reckoning RP/PVP will shutdown in #tmin minutes.</text>
-    </message>
-	<message>
-        <delay>2</delay>
-        <onconnect>1</onconnect>
-        <text>Welcome to ! The Reckoning RP/PVP</text>
-    </message>
-	<message>
-        <repeat>15</repeat>
-        <text>Amnesty until Monday Dec 27th.</text>
-    </message>
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 	

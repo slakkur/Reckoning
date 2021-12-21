@@ -1,5 +1,153 @@
 {
     "Areas": [
+		{	"AreaName": "OffShoreMilitaryBase1",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[873.79, 2.0, 1458.00],
+				"Radius":100,
+				"PosHeight":50,
+				"NegHeight":20,
+				"InnerRingCount":1,
+				"InnerPartDist":25,
+				"OuterRingToggle":1,
+				"OuterPartDist":40,
+				"OuterOffset":-80,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/spooky.mist"
+			},
+			"PlayerData":{
+				"AroundPartName":"graphics/particles/",
+				"TinyPartName":"graphics/particles/",
+				"PPERequesterType":""
+			}
+		},
+		{	"AreaName": "OffShoreMilitaryBase2",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[
+					803.17, 2.0, 1456.35
+				],
+				"Radius":100,
+				"PosHeight":50,
+				"NegHeight":20,
+				"InnerRingCount":1,
+				"InnerPartDist":25,
+				"OuterRingToggle":1,
+				"OuterPartDist":40,
+				"OuterOffset":-80,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/spooky.mist"
+			},
+			"PlayerData":{
+				"AroundPartName":"graphics/particles/",
+				"TinyPartName":"graphics/particles/",
+				"PPERequesterType":""
+			}
+		},
+		{	"AreaName": "OffShoreMilitaryBase3",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[
+					739.46, 2.0, 1454.03
+				],
+				"Radius":100,
+				"PosHeight":50,
+				"NegHeight":20,
+				"InnerRingCount":1,
+				"InnerPartDist":25,
+				"OuterRingToggle":1,
+				"OuterPartDist":40,
+				"OuterOffset":-80,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/spooky.mist"
+			},
+			"PlayerData":{
+				"AroundPartName":"graphics/particles/",
+				"TinyPartName":"graphics/particles/",
+				"PPERequesterType":""
+			}
+		},
+		{	"AreaName": "helismoke",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[
+					901.00, 10.5, 1391.00
+				],
+				"Radius":100,
+				"PosHeight":22,
+				"NegHeight":10,
+				"InnerRingCount":0,
+				"InnerPartDist":50,
+				"OuterRingToggle":false,
+				"OuterPartDist":50,
+				"OuterOffset":0,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/smoke_heli_wreck_01"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
+		{	"AreaName": "shipsmoke",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[
+					817.5, 7.0, 1349.9
+				],
+				"Radius":100,
+				"PosHeight":22,
+				"NegHeight":10,
+				"InnerRingCount":0,
+				"InnerPartDist":50,
+				"OuterRingToggle":false,
+				"OuterPartDist":50,
+				"OuterOffset":0,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/smoke_heli_wreck_01"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
+		{	"AreaName": "smokestackMil",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[
+					809.2, 29.1, 1455.74
+				],
+				"Radius":100,
+				"PosHeight":22,
+				"NegHeight":10,
+				"InnerRingCount":0,
+				"InnerPartDist":50,
+				"OuterRingToggle":false,
+				"OuterPartDist":50,
+				"OuterOffset":0,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/smoke_heli_wreck_01"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
 		{ 	"AreaName": "single-smoke-chimney1",    
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "effecttrigger",
@@ -766,1827 +914,6 @@
 				"Pos": [ 2762, 0, 1254 ]
 			}
 		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-1", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-2", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12676 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-3", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12662 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-4", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-5", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12634 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-6", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12620 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-7", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12606 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-8", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12592 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-9", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12578 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-10", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12564 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-11", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12550 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-12", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12536 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-13", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12522 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-14", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12508 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-15", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12494 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-16", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12480 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-17", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12466 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-18", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12452 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-19", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12438 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Left-Wall-20", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12130, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-1", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-2", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12676 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-3", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12662 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-4", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-5", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12634 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-6", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12620 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-7", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12606 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-8", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12592 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-9", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12578 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-10", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12564 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-11", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12550 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-12", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12536 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-13", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12522 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-14", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12508 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-15", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12494 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-16", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12480 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-17", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12466 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-18", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12452 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-19", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12438 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Right-Wall-20", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12382, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-1", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12144, 0, 12424 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-2", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12158, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-3", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12172, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-4", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12186, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-5", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12200, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-6", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12214, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-7", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12228, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-8", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12242, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-9", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-10", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12270, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-11", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-12", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12298, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-13", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12312, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-14", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12326, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-15", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12340, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-16", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12354, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Top-Wall-17", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12368, 0, 12424 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-1", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12144, 0, 12690 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-2", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12158, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-3", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12172, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-4", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12186, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-5", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12200, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-6", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12214, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-7", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12228, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-8", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12242, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-9T", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 165, 12690 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-gate-side-door-1", 
-			"Type": "Land_Wall_Gate_Ind1_L", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12264, 0, 12702 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-gate-door-1", 
-			"Type": "Land_Wall_Gate_Camp", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12257, 0, 12718 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-9b", 
-			"Type": "Land_Castle_Gate", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 0, 12702 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-9c", 
-			"Type": "Land_Castle_Gate", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 0, 12714 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-10", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12270, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-11", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-12", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12298, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-13", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12312, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-14", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12326, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-15", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12340, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-16", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12354, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-17", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12368, 0, 12690 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Tower-8", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12244, 0, 12714 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Tower-9", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12270, 0, 12714 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-1", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 0, 12466 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-2", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 170, 12466 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-CastleBonfire45", 
-			"Type": "Bonfire", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 180, 12466 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-1a", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12246, 0, 12476 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-2a", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12266, 0, 12476 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-3a", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12246, 0, 12456 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-4a", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12266, 0, 12456 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-1", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12236, 0, 12486 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-2", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12276, 0, 12486 ]
-			}
-		},	
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-3", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12236, 0, 12446 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castlecenter-trim-4", 
-			"Type": "Land_Castle_Bergfrit", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12276, 0, 12446 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-stairs-1", 
-			"Type": "Land_Castle_Stairs_nolc", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12222, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-stairs-2", 
-			"Type": "Land_Castle_Stairs_nolc", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12222, 0, 12484 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-stairs-3", 
-			"Type": "Land_Castle_Stairs_nolc", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12368, 0, 12548 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-bunker-1", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12228, 0, 12678  ]
-			}
-		},	
-		{ 	"AreaName": "Bhaals-Castle-bunker-2", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12220, 0, 12678  ]
-			}
-		},	
-		{ 	"AreaName": "Bhaals-Castle-bunker-3", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12212, 0, 12678  ]
-			}
-		},	
-		{ 	"AreaName": "Bhaals-Castle-bunker-4", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12204, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-bunker-5", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12196, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-bunker-6", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12188, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-bunker-7", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12180, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-bunker-8", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12172, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-bunker-9", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12164, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-bunker-10", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12156, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-bunker-11", 
-			"Type": "Land_Castle_Bastion2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12148, 0, 12678  ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-1a", 
-			"Type": "Land_Castle_Wall1_20", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12144, 0, 12648 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-2a", 
-			"Type": "Land_Castle_Wall1_20", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12158, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-3a", 
-			"Type": "Land_Castle_Wall1_20", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12172, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-4a", 
-			"Type": "Land_Castle_Wall1_20", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12186, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-5a", 
-			"Type": "Land_Castle_Wall1_20", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12200, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-6a", 
-			"Type": "Land_Castle_Wall1_20", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12214, 0, 12648 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-8I", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12242, 0, 12676 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Bottom-Wall-10I", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12270, 0, 12676 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Well-1", 
-			"Type": "Land_Misc_Well_Pump_Blue", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 0, 12550 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Wall-Well-1", 
-			"Type": "Land_Castle_Bastion", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12256, 0, 12555 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-1", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12214, 130, 12620 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-2", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12200, 130, 12620 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-3", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12186, 130, 12620 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-4", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12172, 130, 12620 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-5", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12158, 130, 12620 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-6", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12214, 130, 12606 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-7", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12158, 130, 12606 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-8", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12214, 130, 12592 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-9", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12200, 130, 12592 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-10", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12186, 130, 12592 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-11", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12172, 130, 12592 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-HalfWall-12", 
-			"Type": "Land_Castle_Donjon", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12158, 130, 12592 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Container-House-1", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12370, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-2", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12365, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-3", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12360, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-4", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12355, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-5", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12350, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-6", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12345, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-7", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12340, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-8", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12335, 0, 12444 ]
-			}
-		},	
-		{ 	"AreaName": "Bhaals-Container-House-9", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12370, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-10", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12365, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-11", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12360, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-12", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12355, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-13", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12350, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-14", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12345, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-15", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12340, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-16", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12335, 0, 12454 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Container-House-17", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12370, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-18", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12365, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-19", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12360, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-20", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12355, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-21", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12350, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-22", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12345, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-23", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12340, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-24", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12335, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-25", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12370, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-26", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12365, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-27", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12360, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-28", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12355, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-29", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12350, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-30", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12345, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-31", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12340, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-House-32", 
-			"Type": "Land_Container_1Moh", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12335, 0, 12474 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-Church3-1", 
-			"Type": "Land_Church3", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12225, 0, 12465 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-rot-1", 
-			"Type": "Land_CementWorks_RotFurnace", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12150, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-contruction-0", 
-			"Type": "Land_Construction_Building", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12182, 0, 12451 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-contruction-1", 
-			"Type": "Land_Construction_House2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12145, 0, 12476 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-contruction-2", 
-			"Type": "Land_Construction_House2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12160, 0, 12476 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-contruction-3", 
-			"Type": "Land_Construction_House2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12175, 0, 12476 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-contruction-4", 
-			"Type": "Land_Construction_House2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12190, 0, 12476 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-contruction-5", 
-			"Type": "Land_Construction_House2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12205, 0, 12476 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-1", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12325, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-2", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12315, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-3", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12305, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-4", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12295, 0, 12444 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-5", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12285, 0, 12444 ]
-			}
-		},	
-		{ 	"AreaName": "Bhaals-Container-Tent-6", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12325, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-7", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12315, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-8", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12305, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-9", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12295, 0, 12454 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-10", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12285, 0, 12454 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Container-Tent-11", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12325, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-12", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12315, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-13", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12305, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-14", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12295, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Container-Tent-15", 
-			"Type": "Land_Mil_Tent_Big1_1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12285, 0, 12464 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-ruin-0", 
-			"Type": "Land_Ruin_HouseBig3", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12286, 0, 12675 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-Church-1", 
-			"Type": "Land_Ruin_Church2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12300, 0, 12675 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-ruin-1", 
-			"Type": "Land_Ruin_HouseBig1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12314, 0, 12675 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-1", 
-			"Type": "Land_Ruin_HouseBig2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12648 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-2", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-3", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-4", 
-			"Type": "Land_Ruin_HouseBig1_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12648 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-5", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12618 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-6", 
-			"Type": "Land_Ruin_HouseBig3_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12618 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-7", 
-			"Type": "Land_Ruin_HouseBig2_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12618 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-8", 
-			"Type": "Land_Ruin_Church2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12622 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-9", 
-			"Type": "Land_Ruin_HouseBig1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12598 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-10", 
-			"Type": "Land_Ruin_HouseBig2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12598 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-11", 
-			"Type": "Land_Ruin_HouseBig3", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12598 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-12", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12595 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-1a", 
-			"Type": "Land_Ruin_HouseBig2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12484 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-2a", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12484 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-3a", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12484 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-4a", 
-			"Type": "Land_Ruin_HouseBig1_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12484 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-5a", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12504 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-6a", 
-			"Type": "Land_Ruin_HouseBig3_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12504 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-7a", 
-			"Type": "Land_Ruin_HouseBig2_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12504 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-8a", 
-			"Type": "Land_Ruin_Church2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12504 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-9a", 
-			"Type": "Land_Ruin_HouseBig1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12524 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-10a", 
-			"Type": "Land_Ruin_HouseBig2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12524 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-11a", 
-			"Type": "Land_Ruin_HouseBig3", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12524 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-12a", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12524 ]
-			}
-		},	
-		{ 	"AreaName": "Bhaals-Castle-House-13a", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12544 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-14a", 
-			"Type": "Land_Ruin_HouseBig3_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12544 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-15a", 
-			"Type": "Land_Ruin_HouseBig2_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12544 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-16a", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12544 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-17a", 
-			"Type": "Land_Ruin_HouseBig1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12284, 0, 12564 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-18a", 
-			"Type": "Land_Ruin_HouseBig2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12304, 0, 12564 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-19a", 
-			"Type": "Land_Ruin_HouseBig3", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12324, 0, 12564 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-20a", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12344, 0, 12564 ]
-			}
-		},	
-
-		{ 	"AreaName": "Bhaals-Castle-House-1b", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12150, 0, 12508 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-2b", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12170, 0, 12508 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-3b", 
-			"Type": "Land_Ruin_HouseBig1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12190, 0, 12508 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-4b", 
-			"Type": "Land_Ruin_HouseBig2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12210, 0, 12508 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-5b", 
-			"Type": "Land_Ruin_HouseBig3", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12230, 0, 12508 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-6b", 
-			"Type": "Land_Ruin_HouseBig3_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12150, 0, 12528 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-7b", 
-			"Type": "Land_Ruin_HouseBig1_half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12170, 0, 12528 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-8b", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12190, 0, 12528 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-9b", 
-			"Type": "Land_Ruin_HouseBig2_half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12210, 0, 12528 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-10b", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12230, 0, 12528 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-11b", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12150, 0, 12548 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-12b", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12170, 0, 12548 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-13b", 
-			"Type": "Land_Ruin_HouseBig1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12190, 0, 12548 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-14b", 
-			"Type": "Land_Ruin_HouseBig2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12210, 0, 12548 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-15b", 
-			"Type": "Land_Ruin_HouseBig3", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12230, 0, 12548 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-16b", 
-			"Type": "Land_Ruin_HouseBig3_Half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12150, 0, 12568 ]
-			}
-		},		
-		{ 	"AreaName": "Bhaals-Castle-House-17b", 
-			"Type": "Land_Ruin_HouseBig1_half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12170, 0, 12568 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-18b", 
-			"Type": "Land_Ruin_HouseSmall2", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12190, 0, 12568 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-19b", 
-			"Type": "Land_Ruin_HouseBig2_half", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12210, 0, 12568 ]
-			}
-		},
-		{ 	"AreaName": "Bhaals-Castle-House-20b", 
-			"Type": "Land_Ruin_HouseSmall1", 
-			"TriggerType": "",
-			"Data": { 
-				"Pos": [ 12230, 0, 12568 ]
-			}
-		},		
-		{ 	"AreaName": "Haunted-Area-1", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "EffectTrigger",
-			"Data": { 
-				"Pos": [ 12256, 0, 12540 ],
-				"Radius": 100,
-				"PosHeight":50,
-				"NegHeight": 20,
-				"InnerRingCount": 1,
-				"InnerPartDist": 25,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 40,
-				"OuterOffset": -80, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/spooky_mist"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/smoke_bonfire",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_GlassesSportBlack"
-			}
-		},
-        { 	"AreaName": "Haunted-Area-2", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "EffectTrigger",
-			"Data": { 
-				"Pos": [ 12256, 0, 12540 ],
-				"Radius": 100,
-				"PosHeight":50,
-				"NegHeight": 20,
-				"InnerRingCount": 1,
-				"InnerPartDist": 25,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 60,
-				"OuterOffset": -120, 
-				"VerticalLayers": 1,
-				"VerticalOffset": 25,
-				"ParticleName": "graphics/particles/spooky_mist"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/smoke_bonfire",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_GlassesSportBlack"
-			}
-		},
-		{ 	"AreaName": "Ship-SW", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 13684, 0, 11073 ],
-				"Radius": 100,
-				"PosHeight": 22,
-				"NegHeight": 10,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-        { 	"AreaName": "Ship-NE", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 13881, 0, 11172 ],
-				"Radius": 100,
-				"PosHeight": 26,
-				"NegHeight": 10,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-        { 	"AreaName": "Ship-Central", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 13752, 0, 11164 ],
-				"Radius": 100,
-				"PosHeight": 22,
-				"NegHeight": 2,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 60, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-        { 	"AreaName": "Pavlovo-North", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 2043, 0, 3485 ],
-				"Radius": 150,
-				"PosHeight": 25,
-				"NegHeight": 20,
-				"InnerRingCount": 2,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 40, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-        { 	"AreaName": "Pavlovo-South", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 2164, 0, 3335 ],
-				"Radius": 150,
-				"PosHeight": 11,
-				"NegHeight": 10,
-				"InnerRingCount": 2,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 40, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 0,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
 		{ 	"AreaName": "Trader-Castle-Left-Wall-1", 
 			"Type": "Land_Castle_Bergfrit", 
 			"TriggerType": "",
@@ -2872,6 +1199,121 @@
 			"TriggerType": "",
 			"Data": { 
 				"Pos": [ 7177, 408, 9044 ]
+			}
+		},
+		{ 	"AreaName": "Ship-SW", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13684, 0, 11073 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Ship-NE", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13881, 0, 11172 ],
+				"Radius": 100,
+				"PosHeight": 26,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Ship-Central", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13752, 0, 11164 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 2,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 60, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Pavlovo-North", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2043, 0, 3485 ],
+				"Radius": 150,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Pavlovo-South", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2164, 0, 3335 ],
+				"Radius": 150,
+				"PosHeight": 11,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		}
     ],

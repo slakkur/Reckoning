@@ -2,7 +2,7 @@
 	"version": 115,
 	"GeneralData":
 	{
-		"disableBaseDamage": 1,
+		"disableBaseDamage": 0,
 		"disableContainerDamage": 0,
 		"disableRespawnDialog": 0
 	},
@@ -11,8 +11,8 @@
 		"disablePersonalLight": 0,
 		"StaminaData":
 		{
-			"sprintStaminaModifierErc": 0.1,
-			"sprintStaminaModifierCro": 0.1,
+			"sprintStaminaModifierErc": 1.0,
+			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
@@ -22,36 +22,28 @@
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": [
-		"./custom/spawnerData.json",
-		"./custom/Pyramidbasefilled.json",
-		"./custom/DevilsCastleFix.json",
-		"./custom/northEastTowers.json",
-		"./custom/KronaCastleFix.json",
-		"./custom/MilitaryBaseOffshore.json",
-		"./custom/walkwaytoSolisky.json"
-		]
+		"objectSpawnersArr": []
 	},
 	"BaseBuildingData":
 	{
 		"HologramData":
 		{
-			"disableIsCollidingBBoxCheck": 1,
-			"disableIsCollidingPlayerCheck": 1,
-			"disableIsClippingRoofCheck": 1,
-			"disableIsBaseViableCheck": 1,
+			"disableIsCollidingBBoxCheck": 0,
+			"disableIsCollidingPlayerCheck": 0,
+			"disableIsClippingRoofCheck": 0,
+			"disableIsBaseViableCheck": 0,
 			"disableIsCollidingGPlotCheck": 0,
-			"disableIsCollidingAngleCheck": 1,
-			"disableIsPlacementPermittedCheck": 1,
-			"disableHeightPlacementCheck": 1,
-			"disableIsUnderwaterCheck": 1,
-			"disableIsInTerrainCheck": 1
+			"disableIsCollidingAngleCheck": 0,
+			"disableIsPlacementPermittedCheck": 0,
+			"disableHeightPlacementCheck": 0,
+			"disableIsUnderwaterCheck": 0,
+			"disableIsInTerrainCheck": 0
 		},
 		"ConstructionData":
 		{
-			"disablePerformRoofCheck": 1,
-			"disableIsCollidingCheck": 1,
-			"disableDistanceCheck": 1
+			"disablePerformRoofCheck": 0,
+			"disableIsCollidingCheck": 0,
+			"disableDistanceCheck": 0
 		}
 	},
 	"UIData":
