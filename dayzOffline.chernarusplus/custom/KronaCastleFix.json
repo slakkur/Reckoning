@@ -1,76 +1,68 @@
 {
     "Objects": [
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1475.214600, 294.533112, 9243.292969],
 			"ypr": [66.999817, 0.000000, -3.999989]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1482.431519, 295.063843, 9227.152344],
 			"ypr": [65.999763, 0.000000, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1460.355591, 294.982117, 9274.497070],
 			"ypr": [65.999687, 0.000000, 1.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1451.876831, 294.795166, 9289.866211],
 			"ypr": [55.999767, -1.999999, -2.999995]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1405.985107, 296.024139, 9320.951172],
 			"ypr": [7.999936, -1.000000, 3.999999]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
-			"pos": [1486.197388, 263.110626, 9503.445313],
-			"ypr": [-117.999146, -0.999998, 28.999958]
+		{"name": "Land_Castle_Wall1_20_nolc",
+			"pos": [1343.000000, 284.000000, 9206.500000],
+			"ypr": [240.000000, 4.000000, 2.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
-			"pos": [1341.589966, 284.991486, 9185.869141],
-			"ypr": [169.000031, 4.999998, -2.999999]
-		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1301.435059, 273.151154, 9285.265625],
 			"ypr": [-77.999458, 0.000000, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1301.067017, 273.160034, 9265.471680],
 			"ypr": [-99.999542, 0.000000, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1306.932861, 273.341705, 9246.013672],
-			"ypr": [-113.999245, 0.000000, 0.000000]
+			"ypr": [-110.000000, 0.000000, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1321.255737, 278.706146, 9230.675781],
 			"ypr": [-147.997910, 0.000000, 30.999947]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1302.633667, 257.726227, 9295.500000],
 			"ypr": [-75.999413, 4.999990, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1299.872559, 257.196442, 9280.050781],
 			"ypr": [-81.999413, 3.999994, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1300.717163, 257.285583, 9260.421875],
 			"ypr": [102.999496, 3.999999, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1299.172852, 242.760162, 9280.879883],
 			"ypr": [-81.999725, 0.000000, 0.000000]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1384.636475, 278.119385, 9339.557617],
 			"ypr": [70.999222, 3.999999, -24.999720]
 		},
-		{"name": "StaticLand_Castle_Wall1_20_nolc",
+		{"name": "Land_Castle_Wall1_20_nolc",
 			"pos": [1387.108765, 285.504181, 9329.800781],
 			"ypr": [72.999649, 1.999999, -32.999943]
-		},
-		{"name": "Land_Castle_Wall1_20_Turn",
-			"pos": [1486.197388, 263.110626, 9503.445313],
-			"ypr": [-117.999146, -0.999998, 28.999958]
 		},
 		{"name": "Land_Castle_Wall1_20_Turn",
 			"pos": [1306.571167, 273.279480, 9303.736328],
@@ -87,6 +79,26 @@
 		{"name": "Land_Castle_Wall1_Corner2",
 			"pos": [1335.740112, 284.407562, 9216.072266],
 			"ypr": [-91.998390, 0.999995, 1.999999]
+		},
+		{"name": "Land_Castle_Wall1_Corner2",
+			"pos": [1362.500000, 285.700000, 9184.900000],
+			"ypr": [-150.000000, 0.000000, 0.000000]
+		},
+		{"name": "Land_Castle_Wall1_20_Turn_nolc",
+			"pos": [1420.600000, 295.000000, 9318.200000],
+			"ypr": [21.000000, 0.000000, 0.000000]
+		},
+		{"name": "Land_Castle_Wall1_20_nolc",
+			"pos": [1367.000000, 294.000000, 9279.000000],
+			"ypr": [-118.000000, 0.000000, 0.000000]
+		},
+		{"name": "Land_Castle_Wall1_20_nolc",
+			"pos": [1341.000000, 288.000000, 9222.000000],
+			"ypr": [155.000000, 3.000000, 0.000000]
+		},
+		{"name": "Land_Castle_Wall1_20_nolc",
+			"pos": [1351.500000, 296.000000, 9227.000000],
+			"ypr": [157.000000, 0.000000, 0.000000]
 		}
 	]
 }

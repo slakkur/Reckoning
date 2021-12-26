@@ -52,27 +52,171 @@
 	</type>
 	<type name="WoodenCrate">
 		<hoarder />
-		<cargo chance="1">
-            <item name="NBCBootsGray" />
+		<!--cargo chance="1">
+            <item name="Armband_Blue" />
         </cargo>
 		<cargo chance="1">
-            <item name="NBCGlovesGray" />
+            <item name="Armband_Blue" />
         </cargo>
 		<cargo chance="1">
-            <item name="NBCHoodGray" />
+            <item name="Armband_Blue" />
         </cargo>
 		<cargo chance="1">
-            <item name="NBCJacketGray" />
+            <item name="Armband_Blue" />
         </cargo>
 		<cargo chance="1">
-            <item name="NBCPantsGray" />
+            <item name="Armband_Blue" />
         </cargo>
 		<cargo chance="1">
-            <item name="GasMask" />
+            <item name="Armband_Blue" />
         </cargo>
 		<cargo chance="1">
-            <item name="GasMask_Filter" />
+            <item name="Armband_Black" />
         </cargo>
+		<cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo-->
+		<cargo chance="1">
+            <item name="Hacksaw" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Hacksaw" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Rice" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Rice" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Rice" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Rice" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Rice" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Rice" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Canteen" />
+        </cargo>
+		<cargo chance="1">
+            <item name="SodaCan_Cola" />
+        </cargo>
+		<cargo chance="1">
+            <item name="Canteen" />
+        </cargo>
+		<cargo chance="1">
+            <item name="SodaCan_Cola" />
+        </cargo>
+		<cargo chance="1">
+            <item name="HuntingKnife" />
+        </cargo>	
 	</type>
 	<type name="AssaultBag_Ttsko">
 		<cargo preset="mixArmy" />
@@ -115,7 +259,7 @@
 		<cargo preset="mixHunter" />
 	</type>
 	<type name="DryBag_Red">
-		<cargo chance="1">
+		<!--cargo chance="1">
             <item name="Armband_Yellow" />
         </cargo>
 		<cargo chance="1">
@@ -207,7 +351,7 @@
         </cargo>
 		<cargo chance="1">
             <item name="Armband_Blue" />
-        </cargo>
+        </cargo-->
 	</type>
 	<type name="HuntingBag">
 		<cargo preset="foodVillage" />
@@ -983,7 +1127,7 @@
 		</attachments>
 	</type>
 	<!--START OF ZOMBIES  -->
-	<!-- -----------------------------NBC------------------------------ -->
+	<!-- NBC -->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
 		<cargo chance="1.00">
@@ -996,7 +1140,7 @@
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
-	<!-- -----------------------------ARMY----------------------------- -->
+	<!-- ARMY -->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
@@ -1047,7 +1191,7 @@
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
 	
-	<!-- -----------------------------City----------------------------- -->
+	<!-- City -->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
@@ -1463,7 +1607,7 @@
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="bagsCity" />
 	</type>
-	<!-- -----------------------------Industrial----------------------------- -->
+	<!-- Industrial -->
 	<type name="ZmbF_BlueCollarFat_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
@@ -1672,12 +1816,12 @@
 		<attachments preset="bagsIndustrial" />
 		<attachments preset="vestsIndustrial" />
 	</type>
-	<!-- -----------------------------FireFighter----------------------------- -->
+	<!-- FireFighter -->
 	<type name="ZmbM_FirefighterNormal">
 		<cargo preset="toolsCity" />
 		<attachments preset="hatsFirefighter" />
 	</type>
-	<!-- -----------------------------Medic----------------------------- -->
+	<!-- Medic -->
 	<type name="ZmbF_DoctorSkinny">
 		<cargo preset="toolsMedic" />
 		<attachments preset="hatsMedic" />
@@ -1716,7 +1860,7 @@
 	<type name="ZmbM_PatientSkinny">
 		<cargo preset="toolsMedic" />
 	</type>
-	<!-- -----------------------------Police----------------------------- -->
+	<!-- Police -->
 	<type name="ZmbF_PoliceWomanNormal">
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
@@ -1744,7 +1888,7 @@
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
 	</type>
-	<!-- -----------------------------Prisoner----------------------------- -->
+	<!-- Prisoner -->
 	<type name="ZmbM_PrisonerSkinny">
 		<cargo chance="1.00">
 			<item name="Rope" chance="0.14" />
@@ -1752,11 +1896,11 @@
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsPrisoner" />
 	</type>
-	<!-- -----------------------------Religious----------------------------- -->
+	<!-- Religious -->
 	<type name="ZmbM_priestPopSkinny">
 		<cargo preset="foodHermit" />
 	</type>
-	<!-- -----------------------------Solitude----------------------------- -->
+	<!-- Solitude -->
 	<type name="ZmbF_HikerSkinny_Blue">
 		<cargo preset="foodHermit" />
 		<cargo preset="toolsHermit" />
@@ -1864,7 +2008,7 @@
 		<attachments preset="bagsHunter" />
 		<attachments preset="vestsHunter" />
 	</type>
-	<!-- -----------------------------Village----------------------------- -->
+	<!-- Village -->
 	<type name="ZmbF_MilkMaidOld_Beige">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
@@ -2003,7 +2147,7 @@
 		<attachments preset="hatsFarm" />
 		<attachments preset="bagsVillage" />
 	</type>
-	<!-- -----------------------------Special----------------------------- -->
+	<!-- Special -->
 	<type name="ZmbM_Santa">
 		<attachments preset="SantaHat" />
 	</type>
@@ -2189,7 +2333,7 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
+			<item name="PSO1Optic" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_AK74_45Rnd" chance="0.15" />
@@ -2213,7 +2357,7 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
+			<item name="PSO1Optic" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
@@ -3109,7 +3253,7 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<!--attachments chance="1.00">
 			<item name="NailBox" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -3189,7 +3333,7 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Hatchet" chance="1.00" />
-		</attachments>
+		</attachments-->
 	</type>
 	<type name="Sedan_02">
 		<attachments chance="1.00">

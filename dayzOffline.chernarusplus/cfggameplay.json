@@ -23,12 +23,13 @@
 	{
 		"lightingConfig": 1,
 		"objectSpawnersArr": [
-		"./custom/spawnerData.json",
+		"./custom/BaseBerezino.json",
+		"./custom/MilitaryBaseOffshore.json",
+		"./custom/MilitaryBaseNearVybor.json",
 		"./custom/Pyramidbasefilled.json",
 		"./custom/DevilsCastleFix.json",
 		"./custom/northEastTowers.json",
 		"./custom/KronaCastleFix.json",
-		"./custom/MilitaryBaseOffshore.json",
 		"./custom/walkwaytoSolisky.json"
 		]
 	},
