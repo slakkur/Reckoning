@@ -4,21 +4,22 @@
 # https://aka.ms/yaml
 
 trigger:
-- master
+- '*'
 
-pool:
-  vmImage: ubuntu-latest
+# Use multiple jobs, so the linter can work in parallel to the build.
+# This also allows to run the Linter on Linux whereas you build can run on Windows or Mac.
+jobs:
+  - job: lint
+    pool:
+      vmImage: 'ubuntu-latest'
+    steps:
+    - script: docker pull github/super-linter:latest
+      displayName: Pull GitHub Super-Linter image
+    - script: >-
+        docker run \
+          -e RUN_LOCAL=true \
+          -e VALIDATE_JSCPD=false \
+          -v $(System.DefaultWorkingDirectory):/tmp/lint \
+          github/super-linter
+      displayName: 'Run GitHub Super-Linter'
 
-variables:
-- group: gapetopia
-
-steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
-- script: echo ftp servername is $(hostname)
-
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
