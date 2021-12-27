@@ -30,7 +30,8 @@
 		"./custom/DevilsCastleFix.json",
 		"./custom/northEastTowers.json",
 		"./custom/KronaCastleFix.json",
-		"./custom/walkwaytoSolisky.json"
+		"./custom/walkwaytoSolisky.json",
+		"./custom/BridgePrisonIsland.json"
 		]
 	},
 	"BaseBuildingData":
