@@ -12,7 +12,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![]][https://img.shields.io/discord/893360672069550140]
+![](https://img.shields.io/discord/893360672069550140)
 
 
 <!-- PROJECT LOGO -->
