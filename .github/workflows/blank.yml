@@ -71,6 +71,6 @@ jobs:
 
       - name: Restart GameServer
         run: >-
-          curl \
-          -X POST "https://api.nitrado.net/services/${{ secrets.NITRADO_GAMESERVER_ID }}/gameservers/restart?message=Github%20File%20Upload%20Requires%20Restart" \
+          curl 
+          -X POST "https://api.nitrado.net/services/${{ secrets.NITRADO_GAMESERVER_ID }}/gameservers/restart?message=Github%20File%20Upload%20Requires%20Restart" 
           -H "Authorization: ${{ secrets.NITRADO_TOKEN }}"
