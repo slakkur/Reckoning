@@ -57,7 +57,7 @@ jobs:
           # Path to upload to on the server. Must end with trailing slash /
           server-dir: dayzxb_missions/dayzOffline.chernarusplus/
           # Path and name of the state file - this file is used to track which files have been deployed
-          state-name: dayzxb_missions/github-ftp-deploy-sync-state.json
+          state-name: github-ftp-deploy-sync-state.json.log
           # Prints which modifications will be made with current config options, but doesnt actually make any changes
           dry-run: true
           # Deletes ALL contents of server-dir, even items in excluded with exclude argument
