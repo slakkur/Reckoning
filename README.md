@@ -42,9 +42,9 @@
 
 ## Documentation
 See the following pages for more information
-- https://community.bistudio.com/wiki/DayZ:Central_Economy_Configuration
-- https://community.bistudio.com/wiki/DayZ:Central_Economy_setup_for_custom_terrains
-    
+- ![https://community.bistudio.com/wiki/DayZ:Central_Economy_Configuration](https://community.bistudio.com/wiki/DayZ:Central_Economy_Configuration)
+- ![https://community.bistudio.com/wiki/DayZ:Central_Economy_setup_for_custom_terrains](https://community.bistudio.com/wiki/DayZ:Central_Economy_setup_for_custom_terrains)
+  
 ## License
 Arma and Dayz Public License Share Alike (ADPL-SA)
 
@@ -57,7 +57,7 @@ With this license you are free to adapt (i.e. modify, rework or update) and shar
 - Arma and Dayz Only - You may not convert or adapt this material to be used in other games than Arma and Dayz.
 - Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.
 
-Full text: https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa
+Full text: ![https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
