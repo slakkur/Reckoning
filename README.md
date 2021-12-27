@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/slakkur/Reckoning">
-    <img src="https://media.discordapp.net/attachments/893365611793641542/912964860512456744/Untitled-4.png" alt="Logo" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/893365611793641542/912964860512456744/Untitled-4.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">The Reckoning RP/PVP Server DayZ-Central-Economy Files</h3>
