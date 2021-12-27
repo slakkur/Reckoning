@@ -8,11 +8,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![CI](https://github.com/slakkur/Reckoning/actions/workflows/blank.yml/badge.svg)](https://github.com/slakkur/Reckoning/actions/workflows/blank.yml)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![](https://img.shields.io/discord/893360672069550140)
+[![Discord][discord-shield]][discord-inv-url]
 
 
 <!-- PROJECT LOGO -->
@@ -25,12 +26,12 @@
 <h3 align="center">The Reckoning RP/PVP Server DayZ-Central-Economy Files</h3>
 
   <p align="center">
-    project_description
+    This project contains all the files used on our custom community server: The Reckoning RP\PVP.
     <br />
     <a href="https://github.com/slakkur/Reckoning"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/slakkur/Reckoning">Join the Discord!</a>
+    <a href="https://discord.gg/cC4YTSSgjC">Join the Discord!</a>
     ·
     <a href="https://github.com/slakkur/Reckoning/issues">Report Bug</a>
     ·
@@ -61,16 +62,16 @@ Full text: https://www.bohemia.net/community/licenses/arma-and-dayz-public-licen
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[contributors-shield]: https://img.shields.io/github/contributors/slakkur/Reckoning.svg
+[contributors-url]: https://github.com/slakkur/Reckoning/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/slakkur/Reckoning.svg
+[forks-url]: https://github.com/slakkur/Reckoning/network/members
+[stars-shield]: https://img.shields.io/github/stars/slakkur/Reckoning.svg
+[stars-url]: https://github.com/slakkur/Reckoning/stargazers
+[issues-shield]: https://img.shields.io/github/issues/slakkur/Reckoning.svg
+[issues-url]: https://github.com/slakkur/Reckoning/issues
+[license-shield]: https://img.shields.io/github/license/slakkur/Reckoning.svg
+[license-url]: https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa
 [product-screenshot]: images/screenshot.png
+[discord-shield]: https://img.shields.io/discord/893360672069550140
+[discord-inv-url]: https://discord.gg/cC4YTSSgjC
