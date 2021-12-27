@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: CI/CD DevTest
 
 # Controls when the workflow will run
 on:
@@ -68,3 +68,9 @@ jobs:
           #log-level: # optional
           # strict or loose
           #security: # optional
+
+      - name: Restart GameServer
+        run: >-
+          curl \
+          -X POST "https://api.nitrado.net/services/${{ secrets.NITRADO_GAMESERVER_ID }}/gameservers/restart?message=Github%20File%20Upload%20Requires%20Restart" \
+          -H "Authorization: ${{ secrets.NITRADO_TOKEN }}"
