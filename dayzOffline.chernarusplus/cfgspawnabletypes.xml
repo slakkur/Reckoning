@@ -2847,7 +2847,7 @@
 			<item name="HatchbackDoors_Driver" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackDoors_CoDriver" chance="1.00" />
+			<item name="HatchbackDoors_CoDriver" chance="01.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HatchbackHood" chance="1.00" />
@@ -4192,7 +4192,67 @@
 			<item name="SparkPlug" chance="1.00" />
 		</attachments>
 	</type-->
+	<type name="BUISOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="M68Optic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="M4_T3NRDSOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="FNP45_MRDSOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="ReflexOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
 	<type name="ACOGOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="PUScopeOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="KashtanOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="LongrangeOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="HuntingOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="PistolOptic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="PSO1Optic">		
+		<attachments>
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+	<type name="PSO11Optic">		
 		<attachments>
 			<item name="Battery9V" />
 		</attachments>

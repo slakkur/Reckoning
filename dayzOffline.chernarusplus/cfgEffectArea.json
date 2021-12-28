@@ -1,5 +1,78 @@
 {
     "Areas": [
+		{	"AreaName": "OffShoreMilitaryBase1",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[873.79, 2.0, 1458.00],
+				"Radius":100,
+				"PosHeight":50,
+				"NegHeight":20,
+				"InnerRingCount":1,
+				"InnerPartDist":25,
+				"OuterRingToggle":1,
+				"OuterPartDist":40,
+				"OuterOffset":-80,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/spooky.mist"
+			},
+			"PlayerData":{
+				"AroundPartName":"graphics/particles/",
+				"TinyPartName":"graphics/particles/",
+				"PPERequesterType":""
+			}
+		},
+		{	"AreaName": "OffShoreMilitaryBase2",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[
+					803.17, 2.0, 1456.35
+				],
+				"Radius":100,
+				"PosHeight":50,
+				"NegHeight":20,
+				"InnerRingCount":1,
+				"InnerPartDist":25,
+				"OuterRingToggle":1,
+				"OuterPartDist":40,
+				"OuterOffset":-80,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/spooky.mist"
+			},
+			"PlayerData":{
+				"AroundPartName":"graphics/particles/",
+				"TinyPartName":"graphics/particles/",
+				"PPERequesterType":""
+			}
+		},
+		{	"AreaName": "OffShoreMilitaryBase3",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data":{
+				"Pos":[
+					739.46, 2.0, 1454.03
+				],
+				"Radius":100,
+				"PosHeight":50,
+				"NegHeight":20,
+				"InnerRingCount":1,
+				"InnerPartDist":25,
+				"OuterRingToggle":1,
+				"OuterPartDist":40,
+				"OuterOffset":-80,
+				"VerticalLayers":0,
+				"VerticalOffset":0,
+				"ParticleName":"graphics/particles/spooky.mist"
+			},
+			"PlayerData":{
+				"AroundPartName":"graphics/particles/",
+				"TinyPartName":"graphics/particles/",
+				"PPERequesterType":""
+			}
+		},
 		{	"AreaName": "helismoke",
 			"Type": "ContaminatedArea_Static",
 			"TriggerType": "EffectTrigger",
