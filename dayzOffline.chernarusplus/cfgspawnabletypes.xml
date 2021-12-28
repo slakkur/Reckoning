@@ -2315,7 +2315,7 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="KashtanOptic" chance="0.30" />
-			<item name="PSO11Optic" chance="0.20" />
+			<item name="PSO1Optic" chance="0.20" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AK_Suppressor" chance="1.00" />
