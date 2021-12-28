@@ -45,10 +45,10 @@
 	<event name="VehicleSedan02extra">
 		<pos x="7151.35" z="9019.25" a="-1" />
     </event>
-	<event name="VehicleCivilianSedanextra">
+	<!--event name="VehicleCivilianSedanextra">
 		<pos x="7206.92" z="9086.19" a="-1" />
     </event>
-	<!--event name="StaticGabi">
+	<event name="StaticGabi">
 		<pos x="7242.9" z="9055.43" a="-1" />
 	</event>
 	<event name="StaticIrena">
@@ -63,9 +63,9 @@
 	<event name="StaticEva">
 		<pos x="7200.74" z="9068.22" a="-1" />
 	</event>
-	<event name="StaticHassan">
+	<!--event name="StaticHassan">
 		<pos x="7202.28" z="9076.64" a="-1" />
-	</event>
+	</event-->
 	<event name="ItemGoodyBag01">
 		<pos x="7224.08" z="9099.25" a="-1" />
 		<!--pos x="13262.7" z="9970.5" a="270.00" /-->
