@@ -1158,30 +1158,6 @@
             <child lootmax="0" lootmin="0" max="50" min="50" type="MetalPlate"/>
         </children>
 	</event>
-	<event name="StaticRandomZombie">
-		<nominal>90</nominal>
-        <min>40</min>
-        <max>90</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>1</active>
-        <children>
-			<child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_Autumn"/>
-            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Summer"/>
-            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_SoldierNormal"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Heavy_Woodland"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Officer_Desert"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland"/>
-		</children>
-	</event>
 	<event name="StaticPumpkinHelm">
         <nominal>1</nominal>
         <min>1</min>
