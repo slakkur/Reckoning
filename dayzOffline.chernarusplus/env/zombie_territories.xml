@@ -47,6 +47,13 @@
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="921.18" z="1776.39" r="50"/>
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="874.05" z="1762.75" r="50"/>
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="725.32" z="1711.38" r="50"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5129.4" z="7775.4" r="70"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5134.6" z="7823.2" r="70"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5198.3" z="7830.3" r="70"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5075.6" z="7816.9" r="70"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5071.0" z="7730.8" r="70"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5198.4" z="7747.7" r="70"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="6" x="5198.0" z="7687.0" r="70"/>
     </territory>
     <territory color="1291845632">
         <zone name="InfectedReligious" smin="0" smax="0" dmin="3" dmax="5" x="10582.1" z="2490.38" r="100"/>

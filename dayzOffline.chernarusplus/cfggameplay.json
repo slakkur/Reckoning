@@ -31,7 +31,8 @@
 		"./custom/northEastTowers.json",
 		"./custom/KronaCastleFix.json",
 		"./custom/walkwaytoSolisky.json",
-		"./custom/BridgePrisonIsland.json"
+		"./custom/BridgePrisonIsland.json",
+		"./custom/HighCityHiddenBase.json"
 		]
 	},
 	"BaseBuildingData":
