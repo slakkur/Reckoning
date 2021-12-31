@@ -3132,7 +3132,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_Beige">
         <nominal>25</nominal>
@@ -3143,7 +3143,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_Black">
         <nominal>25</nominal>
@@ -3167,7 +3167,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_Blue">
         <nominal>25</nominal>
@@ -3178,7 +3178,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_Browncheck">
         <nominal>25</nominal>
@@ -3189,7 +3189,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_Green">
         <nominal>25</nominal>
@@ -3200,7 +3200,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_Pink">
         <nominal>25</nominal>
@@ -3211,7 +3211,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_Red">
         <nominal>25</nominal>
@@ -3222,7 +3222,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="Breeches_White">
         <nominal>25</nominal>
@@ -3233,7 +3233,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage>DontUse</usage>
+        <usage name="DontUse"/>
     </type>
     <type name="BrisketSpread">
         <nominal>50</nominal>
