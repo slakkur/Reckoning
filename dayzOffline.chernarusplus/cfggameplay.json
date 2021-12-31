@@ -2,7 +2,7 @@
 	"version": 115,
 	"GeneralData":
 	{
-		"disableBaseDamage": 1,
+		"disableBaseDamage": 0,
 		"disableContainerDamage": 0,
 		"disableRespawnDialog": 0
 	},
@@ -31,7 +31,8 @@
 		"./custom/northEastTowers.json",
 		"./custom/KronaCastleFix.json",
 		"./custom/walkwaytoSolisky.json",
-		"./custom/BridgePrisonIsland.json"
+		"./custom/BridgePrisonIsland.json",
+		"./custom/HighCityHiddenBase.json"
 		]
 	},
 	"BaseBuildingData":
