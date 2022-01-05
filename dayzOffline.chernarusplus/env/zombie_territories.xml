@@ -53,6 +53,7 @@
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5075.6" z="7816.9" r="70"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5071.0" z="7730.8" r="70"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="4" dmax="6" x="5198.4" z="7747.7" r="70"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="6" x="5228.8" z="7945.0" r="50"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="6" x="5198.0" z="7687.0" r="70"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="6" x="5173.9" z="7649.9" r="50"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="6" x="5057.6" z="7660.0" r="50"/>
