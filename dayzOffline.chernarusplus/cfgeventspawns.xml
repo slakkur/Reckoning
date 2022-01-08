@@ -20,11 +20,11 @@
 	<event name="VehicleTruckTrader">
 		<pos x="7199.41" z="9089.82" a="-1" />
     </event>
-	<event name="VehicleHatchbackTrader">
-		<pos x="7225.24" z="8956.26" a="-1" />
+		<event name="VehicleHatchbackTrader">
+		<pos x="7250.26" z="9109.42" a="-1" />
     </event>
 	<event name="VehicleSedan02extra">
-		<pos x="7151.35" z="9019.25" a="-1" />
+		<pos x="7250.99" z="9098.10" a="-1" />
     </event>
 	<!--event name="VehicleCivilianSedanextra">
 		<pos x="7206.92" z="9086.19" a="-1" />
@@ -37,16 +37,16 @@
 	</event>
 	<event name="StaticMaria">
 		<pos x="7236.62" z="9055.11" a="-1" />
-	</event>
-	<event name="StaticNomi">
-		<pos x="7242.9" z="9055.43" a="-1" />
 	</event-->
+	<event name="StaticNiki">
+		<pos x="7224.69" z="9056.38" a="-1" />
+	</event>
 	<event name="StaticEva">
 		<pos x="7200.74" z="9068.22" a="-1" />
 	</event>
-	<!--event name="StaticHassan">
-		<pos x="7202.28" z="9076.64" a="-1" />
-	</event-->
+	<event name="StaticTaiki">
+		<pos x="7236.09" z="9056.50" a="-1" />
+	</event>
 	<event name="ItemGoodyBag01">
 		<pos x="7224.08" z="9099.25" a="-1" />
 		<!--pos x="13262.7" z="9970.5" a="270.00" /-->
