@@ -1226,7 +1226,7 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorF_Gabi"/>
         </children>
 	</event>
-	<event name="StaticNaomi">
+<event name="StaticNiki">
         <nominal>1</nominal>
         <min>1</min>
         <max>1</max>
@@ -1238,9 +1238,9 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorF_Naomi"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Niki"/>
         </children>
 	</event>
 	<event name="StaticEva">
@@ -1260,7 +1260,7 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorF_Keiko"/>
         </children>
 	</event>
-	<event name="StaticHassan">
+	<event name="StaticTaiki">
         <nominal>1</nominal>
         <min>1</min>
         <max>1</max>
@@ -1272,9 +1272,9 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Hassan"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Taiki"/>
         </children>
 	</event>
 </events>
