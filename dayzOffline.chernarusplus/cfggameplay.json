@@ -32,7 +32,9 @@
 		"./custom/KronaCastleFix.json",
 		"./custom/walkwaytoSolisky.json",
 		"./custom/BridgePrisonIsland.json",
-		"./custom/HighCityHiddenBase.json"
+		"./custom/HighCityHiddenBase.json",
+		"./custom/newTraderCastle.json",
+		"./custom/TraderGunAmmoShop.json"
 		]
 	},
 	"BaseBuildingData":

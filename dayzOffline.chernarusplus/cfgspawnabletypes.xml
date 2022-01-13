@@ -5942,7 +5942,7 @@
 	</type>	
 	<type name="SurvivorM_Niki"><!-- 24 -->
 		<attachments>
-			<item name="MilitaryBeret_CDF" />
+			<item name="GorkaHelmet_Green" />
 		</attachments>
 		<attachments>
 			<item name="NVGHeadstrap" />
@@ -5967,7 +5967,13 @@
 		</attachments>	
 		<attachments>
 			<item name="MilitaryBelt" />
-		</attachments>	
+		</attachments>
+		<attachments>
+			<item name="NylonKnifeSheath" />
+		</attachments>
+		<attachments>
+			<item name="HuntingKnife" />
+		</attachments>
 		<attachments>
 			<item name="AKM"/>
 		</attachments>
@@ -5987,13 +5993,13 @@
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments>
-			<item name="Sword" />
+			<item name="WoodAxe" />
 		</attachments>
 		<attachments>
-			<item name="RDG2SmokeGrenade_Black" />
+			<item name="RGD5Grenade" />
 		</attachments>
 		<attachments>
-			<item name="RDG2SmokeGrenade_Black" />
+			<item name="RGD5Grenade" />
 		</attachments>
 		<attachments>
 			<item name="RGD5Grenade" />
@@ -6012,7 +6018,10 @@
 					</attachments>	
 					<attachments>
 						<item name="SodaCan_Cola" />
-					</attachments>				
+					</attachments>
+					<attachments>
+						<item name="NVGoggles" />
+					</attachments>
 	</type>
 	<type name="SurvivorM_Oliver"><!-- 25 -->
 		<attachments>
@@ -6375,9 +6384,6 @@
 	<type name="SurvivorM_Taiki"><!-- 30 -->
 		<attachments>
 			<item name="MilitaryBeret_UN" />
-		</attachments>
-		<attachments>
-			<item name="NVGHeadstrap" />
 		</attachments>	
 		<attachments>
 			<item name="PrisonUniformJacket" />
@@ -6401,50 +6407,44 @@
 			<item name="MilitaryBelt" />
 		</attachments>	
 		<attachments>
-			<item name="AK101"/>
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_WoodHndgrd" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="PSO11Optic" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_Suppressor" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Mag_AK101_30Rnd" chance="1.00" />
+			<item name="Pickaxe"/>
 		</attachments>
 		<attachments>
-			<item name="Sword" />
+			<item name="WoodAxe" />
 		</attachments>
 		<attachments>
-			<item name="RDG2SmokeGrenade_Black" />
+			<item name="NailBox" />
 		</attachments>
 		<attachments>
-			<item name="RDG2SmokeGrenade_Black" />
+			<item name="NailBox" />
 		</attachments>
 		<attachments>
-			<item name="RGD5Grenade" />
+			<item name="NailBox" />
 		</attachments>
 		<attachments>
-			<item name="RGD5Grenade" />
+			<item name="NailBox" />
 		</attachments>	
-					<attachments>
-						<item name="BloodTestKit" />
-					</attachments>
-					<attachments>
-						<item name="BandageDressing" />
-					</attachments>
-					<attachments>
-						<item name="Rice" />
-					</attachments>
-					<attachments>
-						<item name="SodaCan_Cola" />
-					</attachments>							
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+		<attachments>
+			<item name="Hacksaw" />
+		</attachments>
+		<attachments>
+			<item name="Hacksaw" />
+		</attachments>
+		<attachments>
+			<item name="Hatchet" />
+		</attachments>
+		<attachments>
+			<item name="Hatchet" />
+		</attachments>
+		<attachments>
+			<item name="Rope" />
+		</attachments>
+		<attachments>
+			<item name="CombinationLock4" />
+		</attachments>
 	</type>
 <!--
 	<type name="V3S_Chassis">
