@@ -12,7 +12,7 @@
     </message>
 	<message>
         <repeat>15</repeat>
-        <text>Purge has begun. Reminder DONT touch or take Base Flags if raiding.</text>
+        <text>The Purge has ended.</text>
     </message>
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
