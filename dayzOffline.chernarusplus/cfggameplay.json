@@ -34,7 +34,8 @@
 		"./custom/BridgePrisonIsland.json",
 		"./custom/HighCityHiddenBase.json",
 		"./custom/newTraderCastle.json",
-		"./custom/TraderGunAmmoShop.json"
+		"./custom/TraderGunAmmoShop.json",
+		"./custom/TraderShopLandShed.json"
 		]
 	},
 	"BaseBuildingData":
