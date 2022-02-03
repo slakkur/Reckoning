@@ -42,10 +42,10 @@
 		<pos x="7224.69" z="9056.38" a="-1" />
 	</event>
 	<event name="StaticEva">
-		<pos x="7200.74" z="9068.22" a="-1" />
+		<pos x="7160.13" z="9096.74" a="-1" />
 	</event>
 	<event name="StaticTaiki">
-		<pos x="7236.09" z="9056.50" a="-1" />
+		<pos x="7179.89" z="9114.01" a="-1" />
 	</event>
 	<event name="ItemGoodyBag01">
 		<pos x="7224.08" z="9099.25" a="-1" />
