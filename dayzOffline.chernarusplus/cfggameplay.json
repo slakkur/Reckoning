@@ -35,7 +35,8 @@
 		"./custom/HighCityHiddenBase.json",
 		"./custom/newTraderCastle.json",
 		"./custom/TraderGunAmmoShop.json",
-		"./custom/TraderShopLandShed.json"
+		"./custom/TraderShopLandShed.json",
+		"./custom/BuildDrop4Zesty"
 		]
 	},
 	"BaseBuildingData":
